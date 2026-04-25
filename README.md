@@ -3,9 +3,30 @@
 I'm a **Senior Software Engineer** with a wide range of interests  
 Sadly, I don't have much time to work on my side projects, so they are mostly incomplete
 
-- ☢️ The most active project right now is [SideBySide](https://github.com/Krakenus00/SideBySide)
-- 📕 I’m currently learning Vulkan and WinUI 3
-- ✒️ My favourite language is C++ because of its freedom and efficiency
+📕 I’m currently learning Vulkan and WinUI 3
+
+Most active project:  
+![Active repo](https://github-readme-stats.vercel.app/api/pin/?username=Krakenus00&repo=KrakenRenderer&theme=radical)
+
+Languages I'm proficient in:  
+<img src="Assets/cpp.png" height=32>
+<img src="Assets/csharp.png" height=32>
+<img src="Assets/python.png" height=32>
+
+Other languages I have experience with:  
+<img src="Assets/swift.png" height=32>
+<img src="Assets/kotlin.png" height=32>
+<img src="Assets/java.png" height=32>
+<img src="Assets/js.png" height=32>
+<img src="Assets/ts.png" height=32>
+<img src="Assets/go.png" height=32>
+
+Tools of trade:  
+<img src="Assets/vs.svg" height=32>
+<img src="Assets/vscode.png" height=32>
+<img src="Assets/xcode.png" height=32>
+<img src="Assets/cmake.png" height=32>
+<img src="Assets/claude.svg" height=32>
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Krakenus00&show_icons=true&theme=radical&rank_icon=github)
