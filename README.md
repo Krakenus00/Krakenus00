@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm a Senior Software Engineer with a wide range of interests.  
+I'm a **Senior Software Engineer** with a wide range of interests  
 Sadly, I don't have much time to work on my side projects, so they are mostly incomplete
 
-- ☢️ I’m currently working on [SideBySide](https://github.com/Krakenus00/SideBySide)
+- ☢️ The most active project right now is [SideBySide](https://github.com/Krakenus00/SideBySide)
 - 📕 I’m currently learning Vulkan and WinUI 3
 - ✒️ My favourite language is C++ because of its freedom and efficiency
 
