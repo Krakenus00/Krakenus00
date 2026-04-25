@@ -23,6 +23,7 @@ Tools of trade:
 <img src="Assets/vscode.png" height=32>
 <img src="Assets/xcode.png" height=32>
 <img src="Assets/cmake.png" height=32>
+<img src="Assets/docker.png" height=32>
 <img src="Assets/claude.svg" height=32>
 
 ### Main project
