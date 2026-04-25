@@ -13,7 +13,7 @@ Languages I'm proficient in:
 Other languages I have experience with:  
 <img src="Assets/swift.png" height=32>
 <img src="Assets/kotlin.png" height=32>
-<img src="Assets/java.png" height=32>
+<img src="Assets/java.svg" height=32>
 <img src="Assets/js.png" height=32>
 <img src="Assets/ts.png" height=32>
 <img src="Assets/go.png" height=32>
