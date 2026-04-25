@@ -26,7 +26,7 @@ Tools of trade:
 <img src="Assets/claude.svg" height=32>
 
 ### Main project
-![Active repo](https://github-readme-stats.vercel.app/api/pin/?username=Krakenus00&repo=KrakenRenderer&theme=radical)
+[![Active repo](https://github-readme-stats.vercel.app/api/pin/?username=Krakenus00&repo=KrakenRenderer&theme=radical)](../../../KrakenRenderer)
 
 ---
 
