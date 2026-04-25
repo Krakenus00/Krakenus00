@@ -5,9 +5,6 @@ Sadly, I don't have much time to work on my side projects, so they are mostly in
 
 📕 I’m currently learning Vulkan and WinUI 3
 
-Most active project:  
-![Active repo](https://github-readme-stats.vercel.app/api/pin/?username=Krakenus00&repo=KrakenRenderer&theme=radical)
-
 Languages I'm proficient in:  
 <img src="Assets/cpp.png" height=32>
 <img src="Assets/csharp.png" height=32>
@@ -28,7 +25,11 @@ Tools of trade:
 <img src="Assets/cmake.png" height=32>
 <img src="Assets/claude.svg" height=32>
 
+### Main project
+![Active repo](https://github-readme-stats.vercel.app/api/pin/?username=Krakenus00&repo=KrakenRenderer&theme=radical)
+
 ---
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Krakenus00&show_icons=true&theme=radical&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krakenus00&layout=donut&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krakenus00&layout=compact&theme=radical&card_width=467)
